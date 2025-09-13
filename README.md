@@ -7,34 +7,28 @@
 <div align="left">
 
 ```java
-public class Echomirix extends Senior implements Person {
-    private String name;
-    private Location location;
-    private int grade;
-    private Language[] skills;
-    private Hobby[] hobbies;
-    private Games[] games;
-    private Map<Application, Id> socialAccounts;
+public class Echomirix extends Senior implements Developer {
+
+    private final String name = "Echomirix";
+    private final Location location = China.Beijing;
+    private final int grade = 10;
+    private final URL website = new URL("blog.hoshiran.tech");
+    private final Language[] skills = {"Java", "Kotlin", "C++", "Python", "HTML/CSS/JavaScript"};
+    private final Hobby[] hobbies = {"编程", "游戏", "旅行"};
+    private final Games[] games = {"Minecraft", "BlueArchive", "Phigros", "MuseDash"};
+    private final Map<Application, Id> socials = Map.of(
+        "GitHub", "Echomirix",
+        "Telegram", "@Echomirix",
+        "Steam", "[CN]Echomirix"
+    );
     
     public Echomirix() {
-        this.name = "Echomirix";
-        this.location = China.Beijing;
-        this.grade = 10;
-        this.skills = {"Java", "C++", "Python", "HTML/CSS/JavaScript"};
-        this.hobbies = {"Programming", "Gaming", "Traveling"};
-        this.playGames = {"Minecraft", "BlueArchive", "Phigros", "MuseDash"};
-        this.socialAccounts = Map.of(
-            Application.GitHub, "Echomirix",
-            Application.Telegram, "@Echomirix"
-        );
+        super();
     }
-    
 }
 ```
 
 </div>
-
-<br>
 
 ## 🛠️ 技术栈
 
@@ -46,6 +40,7 @@ public class Echomirix extends Senior implements Person {
   <a href="https://gcc.gnu.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="Cpp" /></a>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>
   <a href="https://www.w3school.com.cn/html/html5_intro.asp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Html5" /></a>
+  <a href="https://www.w3school.com.cn/html/html5_intro.asp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /></a>
 </div>
 
 ### 工具与框架
@@ -64,6 +59,8 @@ public class Echomirix extends Senior implements Person {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Echomirix&show_icons=true&locale=cn&hide_border=true&theme=github_dark_dimmed" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echomirix&layout=compact&locale=cn&hide_border=true&theme=radical" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Echomirix&locale=zh_Hans&card_width=493" alt="GitHub Streak" />
+
 </div>
 
 ## 🌐 社交平台
@@ -82,8 +79,3 @@ public class Echomirix extends Senior implements Person {
 </div>
 
 <img src="https://raw.githubusercontent.com/Echomirix/Echomirix/output/github-snake.svg" alt="Snake animation" />
-
-<p align="center"> 
-  访客计数<br>
-  <img src="https://profile-counter.glitch.me/Echomirix/count.svg" />
-</p>
