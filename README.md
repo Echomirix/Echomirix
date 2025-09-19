@@ -8,19 +8,18 @@
 
 ```java
 public class Echomirix extends Senior implements Developer {
-
-    private final String name = "Echomirix";
-    private final Location location = China.Beijing;
-    private final int grade = 10;
-    private final URL website = new URL("blog.hoshiran.tech");
-    private final Language[] skills = {"Java", "Kotlin",
-                                        "C++", "Python",
-                                        "HTML/CSS/JavaScript"
-                                      };
-    private final Hobby[] hobbies = {"编程", "游戏", "旅行"};
-    private final Games[] games = {"Minecraft", "BlueArchive",
+    private String name = "Echomirix";
+    private Location location = China.Beijing;
+    private int grade = 10;
+    private URL website = new URL("blog.hoshiran.tech");
+    private Language[] skills = {"Java", "Kotlin",
+       "C++", "Python",
+       "HTML/CSS/JavaScript"
+    };
+    private Hobby[] hobbies = {"编程", "游戏", "旅行"};
+    private Games[] games = {"Minecraft", "BlueArchive",
                                     "Phigros", "MuseDash"};
-    private final Map<Application, Id> socials = Map.of(
+    private Map<Application, Id> socials = Map.of(
         "GitHub", "Echomirix",
         "Telegram", "@Echomirix",
         "Steam", "[CN]Echomirix"
@@ -63,7 +62,6 @@ public class Echomirix extends Senior implements Developer {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Echomirix&show_icons=true&locale=cn&hide_border=true&theme=github_dark_dimmed" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echomirix&layout=compact&locale=cn&hide_border=true&theme=radical" />
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Echomirix&locale=zh_Hans&card_width=493" alt="GitHub Streak" />
 
 </div>
 
@@ -77,9 +75,8 @@ public class Echomirix extends Senior implements Developer {
 ## ✨ 特色项目
 
 <div align="center">
-  <a href="https://github.com/Echomirix/Tele-KiraLink">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Echomirix&repo=Tele-KiraLink&theme=radical&hide_border=true" />
-  </a>
+  <a href="https://github.com/Echomirix/Tele-KiraLink"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Echomirix&repo=Tele-KiraLink&theme=radical&hide_border=true" /></a>
+  <a href="http://doc.hoshiran.tech/"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=NaxidaAndHoshiran&repo=AronaQQBotDoc&theme=radical&hide_border=true" /></a>
 </div>
 
 <img src="https://raw.githubusercontent.com/Echomirix/Echomirix/output/github-snake.svg" alt="Snake animation" />
