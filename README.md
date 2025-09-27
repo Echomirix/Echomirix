@@ -71,8 +71,9 @@ public class Echomirix extends Senior implements Developer {
 ## 🌐 社交平台
 
 <div align="left">
-  <a href="https://github.com/Echomirix" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="Github Profile" /></a>
-  <a href="https://t.me/Echomirix" target="_blank"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="Telegram Profile" /></a>
+    <a href="https://github.com/Echomirix" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="Github Profile" /></a>
+    <a href="https://t.me/Echomirix" target="_blank"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="Telegram Profile" /></a>
+    <a href="https://blog.hoshiran.tech" target="_blank"><img src="https://cdn.simpleicons.org/homepage/212121" height="40" alt="Blog website" /></a>
 </div>
 
 ## ✨ 特色项目
