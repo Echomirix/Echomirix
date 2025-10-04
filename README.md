@@ -11,7 +11,7 @@ public class Echomirix extends Senior implements Developer {
     private String name = "Echomirix";
     private Location location = China.Beijing;
     private int grade = 10;
-    private URL website = new URL("blog.hoshiran.tech");
+    private URL website = new URL("www.echomirix.top");
     private Language[] skills = {
         "Java", "Kotlin",
         "C++", "Python",
