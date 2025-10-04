@@ -1,6 +1,8 @@
-<h1 align="left">👋 你好呀~ 我是 Echomirix</h1>
+<img src="https://avatars.githubusercontent.com/u/139743802?v=4&size=300" align="right" alt="avatar"/>
 
-<h3 align="left">一名热爱编程的高中生开发者</h3>
+# 👋 你好呀~ 我是 Echomirix
+
+### 一名热爱编程的高中生开发者
 
 ## 📖 关于我
 
