@@ -65,7 +65,7 @@ public class Echomirix extends Senior implements Developer {
 ## 📊 GitHub 统计数据
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Echomirix&show_icons=true&locale=cn&hide_border=true&theme=github_dark_dimmed" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Echomirix&show_icons=true&locale=cn&hide_border=true&theme=github_dark_dimmed&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echomirix&layout=compact&locale=cn&hide_border=true&theme=radical" />
 
 </div>
