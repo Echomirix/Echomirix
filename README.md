@@ -82,7 +82,7 @@ public class Echomirix extends Senior implements Developer {
 
 <div align="center">
   <a href="https://github.com/Echomirix/Tele-KiraLink"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Echomirix&repo=Tele-KiraLink&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/Echomirix/WorkWe-KiraLink/"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Echomirix&repo=WorkWe-KiraLink&theme=radical&hide_border=true" /></a>
+  <!--<a href="https://github.com/Echomirix/WorkWe-KiraLink/"><img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Echomirix&repo=WorkWe-KiraLink&theme=radical&hide_border=true" /></a>-->
 </div>
 
 <img src="https://raw.githubusercontent.com/Echomirix/Echomirix/output/github-snake.svg" alt="Snake animation" />
