@@ -14,17 +14,17 @@ public class Echomirix extends Senior implements Developer {
     private Location location = China.Beijing;
     private int grade = 10;
     private URL website = new URL("www.echomirix.top");
-    private Language[] skills = [
+    private Language[] skills = {
         "Java", "Kotlin",
         "C++", "Python",
         "HTML/CSS/JavaScript"
-    ];
-    private Hobby[] hobbies = ["编程", "游戏", "旅行"];
-    private Games[] games = [
+    };
+    private Hobby[] hobbies = {"编程", "游戏", "旅行"};
+    private Games[] games = {
         "Minecraft", "BlueArchive",
         "Phigros", "MuseDash",
         "ManoSaba"
-    ];
+    };
     private Map<Application, Id> socials = Map.of(
         "GitHub", "Echomirix",
         "Telegram", "@Echomirix",
