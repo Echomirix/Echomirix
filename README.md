@@ -61,6 +61,7 @@ public class Echomirix extends Senior implements Developer {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" altMySQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Unity-505050?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </div>
 
 ## 📊 GitHub 统计数据
