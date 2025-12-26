@@ -28,6 +28,7 @@ public class Echomirix extends Senior implements Developer {
     private Map<Application, Id> socials = Map.of(
         "GitHub", "Echomirix",
         "Telegram", "@Echomirix",
+        "TG_Channel", "@ChihayaGenkyoukai",
         "Steam", "[CN]Echomirix"
     );
     
