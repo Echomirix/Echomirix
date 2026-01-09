@@ -16,7 +16,7 @@ public class Echomirix extends Senior implements Developer {
     private URL website = new URL("www.echomirix.top");
     private Language[] skills = {
         "Java", "Kotlin",
-        "C++", "Python",
+        "C++", "C#",
         "HTML/CSS/JavaScript"
     };
     private Hobby[] hobbies = {"编程", "游戏", "旅行"};
