@@ -19,12 +19,19 @@ public class Echomirix extends Senior implements Developer {
         "C++", "C#",
         "HTML/CSS/JavaScript"
     };
-    private Hobby[] hobbies = {"编程", "游戏", "旅行"};
-    private Games[] games = {
+    private Game[] games = {
         "Minecraft", "BlueArchive",
         "Phigros", "MuseDash",
-        "ManoSaba"
+        "Osu!", "ManoSaba",
+        "ProjectSekai"
     };
+    private Tag[] tags = {
+        "Vocaloid", "ACG",
+        "MyGO", "Miku",
+        "INTP", "编程",
+        "游戏", "动漫",
+        "旅行"
+    }
     private Map<Application, Id> socials = Map.of(
         "GitHub", "Echomirix",
         "Telegram", "@Echomirix",
