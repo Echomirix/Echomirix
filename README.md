@@ -12,7 +12,7 @@
 public class Echomirix extends Senior implements Developer {
     private String name = "Echomirix";
     private Location location = China.Beijing;
-    private int grade = 10;
+    private int grade = 11;
     private URL website = new URL("www.echomirix.top");
     private Language[] skills = {
         "Java", "Kotlin",
